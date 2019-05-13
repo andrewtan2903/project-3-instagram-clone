@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: dvaat1mxu
+  api_key: '861722865622197'
+  api_secret: P2AjJV7lcBObzUDvrCog_jkVXHs
+  enhance_image_tag: true
+  static_file_support: false
+production:
+  cloud_name: dvaat1mxu
+  api_key: '861722865622197'
+  api_secret: P2AjJV7lcBObzUDvrCog_jkVXHs
+  enhance_image_tag: true
+  static_file_support: true
+test:
+  cloud_name: dvaat1mxu
+  api_key: '861722865622197'
+  api_secret: P2AjJV7lcBObzUDvrCog_jkVXHs
+  enhance_image_tag: true
+  static_file_support: false
